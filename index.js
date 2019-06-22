@@ -4,11 +4,9 @@ Calculator.prototype.add = function(a,b){
     return a+b;
 } 
 
-//add three Numbers
-// Calculator.prototype.addThreeNumbers = function(a,b ,c){
-//     return a+b+c;
-// }
-
+Calculator.prototype.addThreeNumbers = function(a,b ,c){
+    return a+b+c;
+}
 
 Calculator.prototype.subtract = function(a,b){
     return a-b;
