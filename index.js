@@ -1,6 +1,6 @@
 var Calculator = function(){};
 
-Calculator.prototype.addition = function(a,b){
+Calculator.prototype.additions = function(a,b){
     return a+b;
 } 
 
