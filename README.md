@@ -1,6 +1,6 @@
 #calculator
 
-##Basic Math calculations
+**Basic Math calculations**
 
 **Add** - Add  two Numbers
 **Subtract** - Subtract two Numbers
