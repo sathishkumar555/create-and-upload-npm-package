@@ -1,0 +1,18 @@
+{
+  "name": "@satzngp/calculator-basic",
+  "version": "1.0.1",
+  "description": "Basic Math Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "add",
+    "subtract",
+    "multiply",
+    "division"
+  ],
+  "author": "sathish",
+  "license": "ISC"
+}
