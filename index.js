@@ -20,5 +20,9 @@ Calculator.prototype.division = function(a,b){
     return a/b;
 }
 
+Calculator.prototype.divisions = function(a,b){
+    return a/b;
+}
+
 module.exports = new Calculator();
 
